@@ -12,3 +12,7 @@ Making changes ss
 Making changes ss user.name
 
 Making changes ss user.mail
+
+
+Another change for the mail
+
